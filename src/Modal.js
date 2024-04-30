@@ -29,7 +29,7 @@ const Modal = () => {
       <div
         ref={modalRef}
         className="relative  
-        bg-[#00000099] bg-blend-soft-light bg-[url('./bg.png')] bg-cover bg-center bg-no-repeat 
+        bg-[#00000099] bg-blend-soft-light bg-[url('./smallBg.png')] bg-cover bg-center bg-no-repeat 
         rounded-lg border-[5px] border-[#00000040] overflow-auto
         px-2 pt-2 pb-7 md:px-6 md:pt-6 md:pb-[40px] lg:p-5 
         w-[327px] md:w-[600px] lg:w-[700px]"
