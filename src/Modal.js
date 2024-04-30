@@ -43,9 +43,10 @@ const Modal = () => {
         />
         <div className="">
           <video
+            controls
             loop
             autoPlay
-            muted
+            playsInline
             id="video-d&d"
             ref={videoRef}
             className="rounded-lg w-full h-1/2 aspect-video flex justify-center items-center"

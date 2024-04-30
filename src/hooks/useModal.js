@@ -28,7 +28,7 @@ export const useModal = () => {
 
   useEffect(() => {
     if (isOpen && videoRef.current) {
-      videoRef.current.play();
+      videoRef.current.play().catch(() => {});
     } else if (videoRef.current) {
       videoRef.current.pause();
     }
