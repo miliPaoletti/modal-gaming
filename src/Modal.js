@@ -51,7 +51,7 @@ const Modal = () => {
             ref={videoRef}
             className="rounded-lg w-full h-1/2 aspect-video flex justify-center items-center"
           >
-            <source src={require("./smallVideo.mp4")} type="video/mp4" />
+            <source src={require("./smVideo.mp4")} type="video/mp4" />
           </video>
 
           <div className="text-center">
