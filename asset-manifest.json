@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/modal-gaming/static/css/main.27f8dd22.css",
+    "main.js": "/modal-gaming/static/js/main.7673b81f.js",
+    "static/js/453.db58f731.chunk.js": "/modal-gaming/static/js/453.db58f731.chunk.js",
+    "static/media/smVideo.mp4": "/modal-gaming/static/media/smVideo.fe930db8af5af273f7a1.mp4",
+    "static/media/smallBg.png": "/modal-gaming/static/media/smallBg.ba5ca3ca3a449856004d.png",
+    "static/media/Inter-Regular.ttf": "/modal-gaming/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/agharti.ttf": "/modal-gaming/static/media/agharti.cffc59978f80edf2ef81.ttf",
+    "index.html": "/modal-gaming/index.html",
+    "main.27f8dd22.css.map": "/modal-gaming/static/css/main.27f8dd22.css.map",
+    "main.7673b81f.js.map": "/modal-gaming/static/js/main.7673b81f.js.map",
+    "453.db58f731.chunk.js.map": "/modal-gaming/static/js/453.db58f731.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27f8dd22.css",
+    "static/js/main.7673b81f.js"
+  ]
+}
